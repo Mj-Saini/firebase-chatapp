@@ -1,0 +1,9 @@
+body,
+html {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.drop_arrow svg path {
+  fill: rgba(255, 255, 255, 0.655);
+}
